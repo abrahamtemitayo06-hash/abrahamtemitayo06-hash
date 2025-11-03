@@ -22,7 +22,7 @@ Here are some of the automation projects I’ve been working on:
 ---
 
 ### 📫 Reach Me
-- **GitHub:** [@abrahamtemitayo](https://github.com/abrahamtemitayo06-hash)
+- **GitHub:**[(https://github.com/abrahamtemitayo06-hash)]
 - **Email:** (abrahatemitayo06@gmail.com)
 
 ---
