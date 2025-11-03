@@ -29,7 +29,7 @@ Currently, I’m learning how to combine Python, Excel, and email automation to 
 
 ## 💼 Featured Projects
 
-### [🧩 Automation Projects](https://github.com/abrahamtemitayoo6-flash/automation-projects)
+### [🧩 Automation Projects](https://github.com/abrahamtemitayo06-flash/automation-projects)
 A growing collection of Python automation scripts that:
 - Clean and organize Excel datasets  
 - Log activity and errors efficiently  
