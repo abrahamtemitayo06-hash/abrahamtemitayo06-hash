@@ -42,7 +42,7 @@ Cleaning and emailing multiple Excel files automatically with logs using a custo
 
 ## 📈 GitHub Stats
 
-![Temitayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrahamtemitayoo6-hash&show_icons=true&theme=tokyonight)
+![Temitayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrahamtemitayo06-hash&show_icons=true&theme=tokyonight)
 
 ---
 
